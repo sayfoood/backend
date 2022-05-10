@@ -2,6 +2,7 @@ from os import path
 from time import ctime
 from flask import jsonify
 import pandas as pd
+from sqlalchemy import JSON
 from models import comp, cooking
 from operations import MessOps,studOps
 
@@ -70,8 +71,8 @@ def init_order_db():
     order_db = pd.DataFrame(columns=['Order No.','Time','Reg. No.','Order','Amount'])
     order_db.to_csv('orderdb.csv')
 
-def df_to_json(df : pd.DataFrame):
-    return jsonify(df.values.tolist())
+def df_to_json(df : pd.DataFrame) :
+    return (df.to_json(orient="split"))
 
 def takeorder(orders : list,roll_no):
     total_amount = 0.00

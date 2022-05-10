@@ -1,3 +1,4 @@
+import json
 from sqlite3 import OperationalError
 from traceback import print_tb
 from flask import  Flask,render_template,request,jsonify
@@ -20,4 +21,5 @@ def root():
 @app.route("/menu")
 def menu():
   res = stud.view_menu_db()
-  return df_to_json(res)
+  ans = df_to_json(res)
+  return json.loads(ans)
