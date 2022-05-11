@@ -1,10 +1,9 @@
 ,Order No.,Time,Reg. No.,Order,Amount
-0,1,Mon May  9 14:41:35 2022,MT20174,"['Veg Biryani', 'Jeera Rice ', 'Curd', 'Papad']",65.0
-1,2,Tue May 10 12:14:33 2022,2013978,"['Chappati', 'Plain Paratha', 'Plain Rice', 'Jeera Rice ']",47.0
-2,3,Tue May 10 12:16:27 2022,2013978,"['Chappati', 'Plain Paratha', 'Plain Rice', 'Jeera Rice ']",47.0
-3,4,Tue May 10 12:16:49 2022,2013978,"['Chappati', 'Plain Paratha', 'Plain Rice', 'Jeera Rice ']",47.0
-4,5,Tue May 10 12:16:52 2022,2013978,"['Chappati', 'Plain Paratha', 'Plain Rice', 'Jeera Rice ']",47.0
-5,6,Tue May 10 12:16:53 2022,2013978,"['Chappati', 'Plain Paratha', 'Plain Rice', 'Jeera Rice ']",47.0
-6,7,Tue May 10 12:16:54 2022,2013978,"['Chappati', 'Plain Paratha', 'Plain Rice', 'Jeera Rice ']",47.0
-7,8,Tue May 10 12:18:27 2022,2013978,"['Chappati', 'Plain Paratha', 'Plain Rice', 'Jeera Rice ']",47.0
-0,9,Tue May 10 12:21:01 2022,2013978,"['Chappati', 'Plain Paratha', 'Plain Rice', 'Jeera Rice ']",47.0
+0,1,Mon April  9 14:41:35 2022,2013412,"['Veg Biryani', 'Jeera Rice ', 'Curd', 'Papad']",65.0
+1,2,Tue April 10 12:14:33 2022,2013978,"['Plain Paratha', 'Plain Rice', 'Jeera Rice ']",47.0
+2,3,Tue April 10 12:16:27 2022,2013978,"['Plain Rice', 'Jeera Rice ']",20.0
+3,4,Tue April 10 12:16:49 2022,2013978,"['Chappati','Plain Rice', 'Jeera Rice ']",29.0
+4,5,Tue April 10 12:16:52 2022,2013978,"['Plain Paratha', 'Plain Rice', 'Jeera Rice ']",47.0
+5,6,Tue April 10 12:16:53 2022,2013978,"['Chappati', 'Plain Paratha', 'Plain Rice', 'Jeera Rice ']",38.0
+6,7,Tue April 10 12:16:54 2022,2013978,"['Chappati', 'Plain Paratha', 'Jeera Rice ']",20.0
+
